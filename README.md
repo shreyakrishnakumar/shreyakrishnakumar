@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shreya Kumar</h1>
+<h1 align="center">Hey there 👋, I'm Shreya Kumar</h1>
 <h3 align="center">A passionate developer from Bangalore,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyakrishnakumar&label=Profile%20views&color=0e75b6&style=flat" alt="shreyakrishnakumar" /> </p>
 
-- 🔭 I’m currently working on **Optophone based on Raspberry-Pi**
+- 🔭 I’m currently working on a project named **Optophone based on Raspberry-Pi**
 
 - 🌱 I’m currently learning **DSA**
 
