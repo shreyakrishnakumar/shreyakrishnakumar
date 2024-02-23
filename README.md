@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyakrishnakumar&label=Profile%20views&color=0e75b6&style=flat" alt="shreyakrishnakumar" /> </p>
 
-- 🔭 I’m currently working on a project named **Optophone based on Raspberry-Pi**
+- 🔭 I’m currently working on a project named **Raspberry-Pi powered Optophone**
 
 - 🌱 I’m currently learning **DSA**
 
@@ -23,11 +23,25 @@
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p>
-  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyakrishnakumar&show_icons=true&locale=en&layout=compact" alt="shreyakrishnakumar" /></p>
+### GitHub Status
+<p align="center">
+  <a href = "https://github.com/shreyakrishnakumar">
+<img src="https://github-readme-stats.vercel.app/api?username=shreyakrishnakumar&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
+  </a>
+ </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyakrishnakumar&show_icons=true&locale=en" alt="shreyakrishnakumar" /></p>
+ ### Top Languages
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyakrishnakumar&" alt="shreyakrishnakumar" /></p>
+<p align="center">
+<a href = "https://github.com/shreyakrishnakumar">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan0725&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
+</a>
+</p>
+
+### Contribution and Streaks
+<p align="center">
+<a href = "https://github.com/shreyakrishnakumar">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyakrishnakumar&" alt="shreyakrishnakumar" />
+</a>
+</p>
 
