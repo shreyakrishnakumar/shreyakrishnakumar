@@ -7,7 +7,7 @@
 
 - 💼 I am pursuing my Bachelor's degree in Computer Science Engineering at DRAIT, Bangalore. 
 - 🔭 I’m currently working on a project named **Raspberry-Pi powered Optophone**
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **UX Designing**
 - 🤔 I enjoy Web Development 🖥️, Painting 🖌️ and playing badminton 🏸!
 - 👨‍💻 All of my projects are available at [https://github.com/shreyakrishnakumar?tab=repositories](https://github.com/shreyakrishnakumar?tab=repositories)
 
